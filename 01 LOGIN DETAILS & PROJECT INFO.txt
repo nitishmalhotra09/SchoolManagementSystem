@@ -1,0 +1,26 @@
+\**Check the Website's Post Page for all the Installation Instructions**
+
+
+---Admin Login Details---
+
+Email   : admin@mail.com
+Password: admin
+
+---Teacher Login Details---
+
+Email   : teacher@mail.com
+Password: teacher
+
+---Student Login Details---
+
+Email   : student@mail.com
+Password: student
+
+---Parents Login Details---
+
+Email   : parent@mail.com
+Password: parent
+
+**Check the Website's Post Page for all the Installation Instructions**
+
+
